@@ -2,7 +2,7 @@
 
 Team Members:
 1. Abhilash Sachin Kulkarni
-2. Ajay S
+2. Ajay Sanjeevan
 3. Akarsh Mahadi
 4. Jahnavi Singh
 
