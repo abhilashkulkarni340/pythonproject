@@ -8,3 +8,6 @@ from django.http import HttpResponse
 
 def index(request):
     return HttpResponse("<h1>This is my first site</h1>")
+
+def index1(request):
+    return HttpResponse("This is index 1 in abhilash_1 branch")
