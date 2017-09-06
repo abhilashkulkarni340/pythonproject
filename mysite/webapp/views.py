@@ -2,9 +2,9 @@
 from __future__ import unicode_literals
 
 from django.shortcuts import render
-from django.http import HttpRequest
+from django.http import HttpResponse
 
 # Create your views here.
 
 def index(request):
-    return HttpRequest("<h1>This is my first site</h1>")
+    return HttpResponse("<h1>This is my first site</h1>")
